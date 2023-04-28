@@ -12,7 +12,6 @@ class MessagesController < ApplicationController
     else
       render :index
     end
-  end
 
   private
 
